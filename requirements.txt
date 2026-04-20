@@ -1,6 +1,4 @@
 streamlit
-pandas
-numpy
 tensorflow
-scikit-learn
-nltk
+numpy
+plotly
