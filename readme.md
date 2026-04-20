@@ -1,4 +1,4 @@
-# Sentiment Analysis and Public Discussion Trends on Makan Bergizi Gratis Using Text Mining
+# Sentiment Analysis 
 
 
 ## Project Organization
