@@ -50,7 +50,7 @@ with st.sidebar:
     st.info("Setiap analisis akan tercatat di grafik tren market di bawah.")
 
 # --- MAIN UI ---
-st.title("🍱 Sentiment Intelligence: Makan Bergizi Gratis")
+st.title("🍱 Sentiment Intelligence")
 st.markdown("Menganalisis persepsi publik dengan arsitektur **Bi-GRU** yang memproses data secara dua arah.")
 
 col1, col2 = st.columns([1, 1])
