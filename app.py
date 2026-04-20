@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from datetime import datetime
 
 # --- KONFIGURASI HALAMAN ---
-st.set_page_config(page_title="Sentimen MBG - Analytics", page_icon="🍱", layout="wide")
+st.set_page_config(page_title="Sentimen Analytics", page_icon="🍱", layout="wide")
 
 # Custom CSS untuk tampilan premium dan scannability
 st.markdown("""
