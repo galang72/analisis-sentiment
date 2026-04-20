@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from datetime import datetime
 
 # --- KONFIGURASI HALAMAN ---
-st.set_page_config(page_title="Sentimen MBG - Analytics", page_icon="🍱", layout="wide")
+st.set_page_config(page_title="Sentimen Analytics", page_icon="🍱", layout="wide")
 
 # Custom CSS untuk tampilan premium dan scannability
 st.markdown("""
@@ -50,7 +50,7 @@ with st.sidebar:
     st.info("Setiap analisis akan tercatat di grafik tren market di bawah.")
 
 # --- MAIN UI ---
-st.title("🍱 Sentiment Intelligence: Makan Bergizi Gratis")
+st.title("🍱 Sentiment Intelligence")
 st.markdown("Menganalisis persepsi publik dengan arsitektur **Bi-GRU** yang memproses data secara dua arah.")
 
 col1, col2 = st.columns([1, 1])
